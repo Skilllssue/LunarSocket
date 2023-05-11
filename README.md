@@ -9,12 +9,12 @@ It intercepts and edits the data in sent packets.
 
 # 🔖 Protocol
 
-You can see Lunar Client protocol detailed [here](https://github.com/Solar-Tweaks/LunarSocket/blob/main/doc/protocol.md)
+You can see Lunar Client protocol detailed [here](https://github.com/Skilllssue/LunarSocket.git/blob/main/doc/protocol.md)
 
 # ⬇️ Installation
 
 ```bash
-$ git clone https://github.com/Solar-Tweaks/LunarSocket # Clone repo
+$ git clone https://github.com/Skilllssue/LunarSocket.git # Clone repo
 $ cd LunarSocket # Go to LunarSocket folder
 $ npm install # Install dependencies
 $ npm run build # Build the project
@@ -28,7 +28,7 @@ $ npm run build
 # 💻 Installation using Script
 
 ```bash
-$ git clone https://github.com/Solar-Tweaks/LunarSocket # Clone repo
+$ git clone https://github.com/Skilllssue/LunarSocket.git/LunarSocket # Clone repo
 $ cd LunarSocket # Go to LunarSocket folder
 $ npm install # Install dependencies
 $ npm run init # Execute the init script
@@ -37,7 +37,7 @@ $ npm run init # Execute the init script
 or
 
 ```bash
-git clone https://github.com/Solar-Tweaks/LunarSocket && cd LunarSocket && npm install && npm run init
+git clone https://github.com/Skilllssue/LunarSocket.git && cd LunarSocket && npm install && npm run init
 # Do the script installation but with just 1 command
 ```
 
